@@ -40,8 +40,8 @@ public class multi_thread
 		int n = In.nextInt() ;
 
 		int[][] X = new int[n][n];
-    	int[][] Y = new int[n][n];
-    	int[][] Z = new int[n][n];
+    		int[][] Y = new int[n][n];
+    		int[][] Z = new int[n][n];
 
 		System.out.println("\n\nMatrix X :- \n\n") ;
 		
